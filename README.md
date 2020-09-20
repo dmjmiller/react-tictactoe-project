@@ -1,4 +1,4 @@
-I created this tic-tac-toe game project to gain familiarity working with the React JavaScript library, and also to practice my skills in CSS and HTML using the codepen.io interface. This is an ongoing learning project, with plan to eventually impliment an AI and improved visuals. 
+I created this tic-tac-toe game project to gain familiarity working with the React JavaScript library, and also to practice my skills in CSS and HTML using the codepen.io interface. This is an ongoing learning project, with plans to eventually impliment an AI and improved visuals. 
 
 You can check it out here:
 
