@@ -1,8 +1,8 @@
-This Tic-Tac-Toe game has the ability to:
+I created this tic-tac-toe game project to gain familiarity working with the React JavaScript library, and also to practice my skills in CSS and HTML using the codepen.io interface. This is an ongoing learning project, with plan to eventually impliment an AI and improved visuals. 
 
--Play tic-tac-toe!
--Show when a player has won the game
--Store the game’s history and allow players to review previous moves 
--Allow players to start over
+You can check it out here:
 
-I created this project to gain familiarity working with the React JavaScript library. It was built from a tutorial on https://reactjs.org/tutorial/tutorial.html and bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://codepen.io/dmjmiller/pen/abNRPwa
+
+
+It was built from a tutorial on https://reactjs.org/tutorial/tutorial.html and bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
